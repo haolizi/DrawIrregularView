@@ -15,6 +15,7 @@
 		A1AC8EDD1DF6A12300F40BB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1AC8EDB1DF6A12300F40BB0 /* LaunchScreen.storyboard */; };
 		A1AC8EE81DF6A12300F40BB0 /* DemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A1AC8EE71DF6A12300F40BB0 /* DemoTests.m */; };
 		A1AC8EF31DF6A12300F40BB0 /* DemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A1AC8EF21DF6A12300F40BB0 /* DemoUITests.m */; };
+		A1AC8F021DF6A17E00F40BB0 /* DrawRoundView.m in Sources */ = {isa = PBXBuildFile; fileRef = A1AC8F011DF6A17E00F40BB0 /* DrawRoundView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		A1AC8EEE1DF6A12300F40BB0 /* DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1AC8EF21DF6A12300F40BB0 /* DemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoUITests.m; sourceTree = "<group>"; };
 		A1AC8EF41DF6A12300F40BB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A1AC8F001DF6A17E00F40BB0 /* DrawRoundView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawRoundView.h; sourceTree = "<group>"; };
+		A1AC8F011DF6A17E00F40BB0 /* DrawRoundView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawRoundView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				A1AC8ED11DF6A12300F40BB0 /* AppDelegate.m */,
 				A1AC8ED31DF6A12300F40BB0 /* ViewController.h */,
 				A1AC8ED41DF6A12300F40BB0 /* ViewController.m */,
+				A1AC8F001DF6A17E00F40BB0 /* DrawRoundView.h */,
+				A1AC8F011DF6A17E00F40BB0 /* DrawRoundView.m */,
 				A1AC8ED61DF6A12300F40BB0 /* Main.storyboard */,
 				A1AC8ED91DF6A12300F40BB0 /* Assets.xcassets */,
 				A1AC8EDB1DF6A12300F40BB0 /* LaunchScreen.storyboard */,
@@ -276,6 +281,7 @@
 				A1AC8ED51DF6A12300F40BB0 /* ViewController.m in Sources */,
 				A1AC8ED21DF6A12300F40BB0 /* AppDelegate.m in Sources */,
 				A1AC8ECF1DF6A12300F40BB0 /* main.m in Sources */,
+				A1AC8F021DF6A17E00F40BB0 /* DrawRoundView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
