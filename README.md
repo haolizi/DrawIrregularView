@@ -1,4 +1,4 @@
-# DrawRoundView
+# DrawIrregularView
 
 用 UIBezierPath绘制简单不规则图形
 
@@ -16,5 +16,5 @@ _drawView.fillColor = BARANDOM_COLOR;//填充颜色
 ```
 
 效果图：
-![image](https://github.com/haolizi/IrregularButton/blob/master/example.png)
+![image](https://github.com/haolizi/DrawIrregularView/blob/master/etc.png)
 
